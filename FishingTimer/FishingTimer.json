@@ -4,7 +4,7 @@
   "Punchline": "A customizable fishing cast timer.",
   "Description": "Displays a customizable timer overlay when casting your fishing line.",
   "InternalName": "FishingTimer",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ichi-obi/FishingTimer",
   "DalamudApiLevel": 15,
